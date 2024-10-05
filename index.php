@@ -72,7 +72,7 @@
                     <p> Rohit Shah </p>
                     <a href="https://github.com/Rohit-TechLab"><img src="Assets/Images/Github.png" alt="Logo" id = "github1"></a>
                     <a href="mailto:rohitshah.dce22@sltiet.edu.in"><img src="Assets/Images/Mail.png" alt="Logo" id = "mail1"></a>
-                    <a href="www.linkedin.com/in/"><img src="Assets/Images/linkedin.png" alt="Logo" id = "linkedin1"></a>
+                    <a href="https://www.linkedin.com/in/rohitshah2005/"><img src="Assets/Images/linkedin.png" alt="Logo" id = "linkedin1"></a>
                 </div>
             
             </div>
@@ -89,7 +89,7 @@
                     <p> Ankit Kushwaha </p>
                     <a href="mailto:ankitkushwaha.dce22@sltiet.edu.in"><img src="Assets/Images/Mail.png" alt="Logo" id = "mail2"></a>
                     <a href="https://github.com/Ankit-CodeLab"><img src="Assets/Images/Github.png" alt="Logo" id = "github2"></a>
-                    <a href="www.linkedin.com/in/"><img src="Assets/Images/linkedin.png" alt="Logo" id = "linkedin2"></a>
+                    <a href="https://www.linkedin.com/in/ankitkushwaha2005/"><img src="Assets/Images/linkedin.png" alt="Logo" id = "linkedin2"></a>
                 </div>
                 <br>
             </div>
